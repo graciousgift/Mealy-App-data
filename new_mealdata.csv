@@ -1,0 +1,91 @@
+Restaurant Name,Food_ID,Food Item,Price,Category,Description,Image,Rating,Review,Featured
+Naija Delight,9327,Plantain and Omelette,140,Breakfast,Plantain and Omelette is a flavorful breakfast option that includes ripe plantains and a fluffy omelette.,image,4,Good portion size and value for money.,True
+Naija Delight,2148,Yam and Egg,200,Breakfast,Yam and Egg is a classic Nigerian breakfast dish consisting of boiled or fried yam served with scrambled or fried eggs.,image,4,Good portion size and value for money.,False
+Naija Delight,9509,Indomie and egg,250,Breakfast,"Indomie is an extremely popular instant noodle brand in Nigeria. People can get very creative when preparing Indomie, and usually pair it with fried or boiled egg.",image,4,Good portion size and value for money.,False
+Mcdonalds,6423,Pap and Akara,200,Breakfast,"Pap and Akara is a popular Nigerian breakfast combination, featuring soft pap (a porridge made from corn or rice) served with akara (bean cakes).",image,4,Good portion size and value for money.,True
+Mcdonalds,3940,Bread and Tea,150,Breakfast,"Bread and Tea is a simple and common Nigerian breakfast option, with sliced bread served alongside a cup of hot tea or coffee.",image,4,Good portion size and value for money.,True
+Mcdonalds,9055,Pancake,200,Breakfast,Pancakes are another staple breakfast dish in Nigeria. Most children love pancakes. There is also the Nigerian pancake called Diet.,image,4,Good portion size and value for money.,True
+Mcdonalds,2480,Moin Moin and Bread,16,Breakfast,Moin Moin and Bread is a traditional Nigerian breakfast pairing of steamed bean pudding (moin moin) and slices of bread.,image,4,Good portion size and value for money.,True
+Naija Delight,3846,Fried Plantain and Eggs,14,Breakfast,Fried Plantain and Eggs is a delightful breakfast choice with ripe fried plantains served alongside scrambled or fried eggs.,image,4,Good portion size and value for money.,True
+Chicken and Grills,9689,Boiled Plantains  and pepper sauce,200,Breakfast,"Boiled plantains and pepper sauce make a delicious and flavorful combination. The boiled plantains provide a starchy and slightly sweet base, while the spicy and tangy pepper sauce adds a zesty kick to the meal.",image,4,Good portion size and value for money.,False
+Mcdonalds,1328,Okpa and custard,100,Breakfast,Okpa is the local name for Bambara nuts. It is also the name of the boiled pudding made with the Bambara nut powder.,image,4,Good portion size and value for money.,True
+Chicken and Grills,7477,Egusi Soup,700,Soups,"Egusi Soup is a rich and hearty Nigerian soup made from ground melon seeds, vegetables, and often enjoyed with pounded yam or eba.",image,4,Good portion size and value for money.,True
+Chicken and Grills,5248,Okra Soup,650,Soups,"Okra Soup is a popular Nigerian soup made from fresh okra, meat or seafood, and flavored with spices like crayfish and bouillon cubes.",image,4,Good portion size and value for money.,True
+Mcdonalds,4922,Efo Riro,600,Soups,"Efo Riro is a delicious Nigerian vegetable soup made with assorted meats, leafy greens, and a flavorful blend of spices.",image,4,Good portion size and value for money.,False
+Mcdonalds,6113,Ogbono Soup,650,Soups,"Ogbono Soup, also known as Draw Soup, is a Nigerian soup made from ground ogbono seeds, meats, and vegetables.",image,4,Good portion size and value for money.,True
+Mcdonalds,2152,Edikaikong Soup,750,Soups,"Edikaikong Soup is a nutritious Nigerian soup made with a combination of ugwu (pumpkin leaves) and water leaves, assorted meats, and fish.",image,4,Good portion size and value for money.,True
+Chicken and Grills,9713,Bitter Leaf Soup,700,Soups,"Bitter Leaf Soup is a traditional Nigerian soup made from bitter leaves, assorted meats, and fish. It has a slightly bitter taste.",image,4,Good portion size and value for money.,True
+Chicken and Grills,7825,Bangaa Soup,800,Soups,"Bangaa Soup is a spicy and flavorful Nigerian soup made from catfish or any other suitable fish, spices, and vegetables.",image,4,Good portion size and value for money.,True
+Chicken and Grills,2899,Ofe Nsala,750,Soups,"Ofe Nsala, also known as White Soup, is a delicious Nigerian soup made with catfish, utazi leaves, and other ingredients.",image,4,Good portion size and value for money.,True
+Naija Delight,8461,Pepper Soup,700,Soups,"Pepper Soup is a spicy Nigerian soup made with assorted meats or fish, flavored with aromatic spices like uziza seeds and scent leaves.",image,4,Good portion size and value for money.,True
+Naija Delight,5969,Miyan Kuka,750,Soups,"Miyan Kuka is a traditional Nigerian soup made from powdered baobab leaves, meat, and spices. It is popular in Northern Nigeria.",image,4,Good portion size and value for money.,False
+Naija Delight,4921,Jollof Rice,500,Rice Dishes,"Jollof Rice is a popular Nigerian dish made with rice, tomatoes, onions, and a blend of spices, resulting in a flavorful one-pot meal.",image,4,Good portion size and value for money.,True
+Mcdonalds,5604,Fried Rice,550,Rice Dishes,"Fried Rice is a tasty Nigerian dish made with rice, vegetables, and seasoned with spices. It is often served with chicken, beef, or shrimp.",image,4,Good portion size and value for money.,True
+Chicken and Grills,1348,Coconut Rice,600,Rice Dishes,"Coconut Rice is a flavorful Nigerian dish where rice is cooked in coconut milk, resulting in a rich and aromatic rice dish.",image,4,Good portion size and value for money.,False
+Chicken and Grills,4472,Native Jollof Rice,550,Rice Dishes,"Native Jollof Rice is a traditional Nigerian rice dish cooked with local spices, palm oil, and other ingredients, giving it a distinct taste.",image,4,Good portion size and value for money.,True
+Naija Delight,2705,Ofada Rice and Sauce,650,Rice Dishes,Ofada Rice and Sauce is a Nigerian specialty dish made with locally grown Ofada rice and a flavorful sauce made from assorted meats and vegetables.,image,4,Good portion size and value for money.,False
+Mcdonalds,5681,Banga Rice,600,Rice Dishes,"Banga Rice is a delicious Nigerian rice dish cooked with palm fruit extract, spices, and served with assorted meats or fish.",image,4,Good portion size and value for money.,True
+Mcdonalds,2203,Party Jollof Rice,550,Rice Dishes,Party Jollof Rice is a flavorful and well-seasoned version of Jollof Rice often served at celebrations and special occasions.,image,4,Good portion size and value for money.,False
+Mcdonalds,9126,Native Fried Rice,600,Rice Dishes,"Native Fried Rice is a Nigerian variation of Fried Rice cooked with indigenous ingredients and flavors, giving it a unique taste.",image,4,Good portion size and value for money.,True
+Chicken and Grills,1065,Yam and Fried Rice,550,Rice Dishes,"Yam and Fried Rice is a combination dish where fried rice is served with boiled or fried yam, creating a satisfying meal.",image,4,Good portion size and value for money.,True
+Chicken and Grills,4257,Egg Fried Rice,500,Rice Dishes,"Egg Fried Rice is a simple and flavorful Nigerian rice dish cooked with scrambled eggs, vegetables, and spices.",image,4,Good portion size and value for money.,False
+Naija Delight,6608,Amala with Ewedu and Gbegiri,22,Swallows,Amala with Ewedu and Gbegiri is a traditional Nigerian swallow meal consisting of dark yam flour (amala) served with Ewedu soup (made from jute leaves) and Gbegiri soup (made from beans).,image,4,Good portion size and value for money.,False
+Mcdonalds,7738,Eba with Egusi Soup,20,Swallows,Eba with Egusi Soup is a popular Nigerian swallow combination that includes garri (cassava flour) served with a rich and flavorful egusi soup made from ground melon seeds.,image,4,Good portion size and value for money.,True
+Chicken and Grills,8171,Pounded Yam with Ogbono Soup,22,Swallows,Pounded Yam with Ogbono Soup is a classic Nigerian swallow meal featuring smooth pounded yam served with ogbono soup made from ground ogbono seeds.,image,4,Good portion size and value for money.,True
+Naija Delight,3190,Semo with Okra Soup,18,Swallows,"Semo with Okra Soup is a common Nigerian swallow choice that pairs semolina flour with a tasty okra soup, made from fresh okra and other ingredients.",image,4,Good portion size and value for money.,False
+Mcdonalds,3915,Fufu with Afang Soup,24,Swallows,"Fufu with Afang Soup is a traditional Nigerian swallow meal made from cassava or plantain flour, served with Afang soup (made from a blend of vegetables and assorted meats).",image,4,Good portion size and value for money.,True
+Naija Delight,3687,Iyan (Pounded Yam) with Efo Riro,22,Swallows,"Iyan (Pounded Yam) with Efo Riro is a classic Nigerian swallow combination of smooth pounded yam served with Efo Riro, a delicious soup made from a variety of vegetables and meats.",image,4,Good portion size and value for money.,True
+Chicken and Grills,3304,Garri with Egusi Soup,20,Swallows,Garri with Egusi Soup is a simple and satisfying Nigerian swallow meal that includes garri (cassava flakes) served with egusi soup made from ground melon seeds.,image,4,Good portion size and value for money.,True
+Naija Delight,9809,Semovita with Edikang Ikong Soup,24,Swallows,"Semovita with Edikang Ikong Soup is a popular Nigerian swallow pairing that includes semolina flour served with Edikang Ikong Soup, a nutritious soup made from a combination of ugwu (pumpkin) leaves and waterleaf.",image,4,Good portion size and value for money.,True
+Mcdonalds,5729,Oat Swallow with Vegetable Soup,20,Swallows,"Oat Swallow with Vegetable Soup is a healthy and gluten-free Nigerian swallow option made from ground oats, served with a flavorful vegetable soup.",image,4,Good portion size and value for money.,False
+Chicken and Grills,6611,Tuwo Shinkafa with Miyan Kuka,24,Swallows,"Tuwo Shinkafa with Miyan Kuka is a traditional Northern Nigerian swallow dish made from rice flour (tuwo shinkafa), served with Miyan Kuka, a soup made from powdered baobab leaves.",image,4,Good portion size and value for money.,False
+Naija Delight,3091,Chips,950,snacks,Salty and crispy potato chips.,image,4,Good portion size and value for money.,True
+Chicken and Grills,3166,Cookies,150,snacks,Sweet and crunchy baked cookies.,image,4,Good portion size and value for money.,False
+Mcdonalds,9616,Popcorn,500,snacks,Light and fluffy popped corn kernels.,image,4,Good portion size and value for money.,False
+Chicken and Grills,2063,Nuts,100,snacks,"Roasted and salted nuts, such as almonds or peanuts.",image,4,Good portion size and value for money.,True
+Chicken and Grills,2471,Crackers,250,snacks,Crisp and savory baked crackers.,image,4,Good portion size and value for money.,True
+Mcdonalds,2980,Cheese Puffs,200,snacks,Cheesy and puffy snacks made with cornmeal.,image,4,Good portion size and value for money.,False
+Mcdonalds,5633,Fruit Snacks,550,snacks,Chewy and fruity snacks in fun shapes.,image,4,Good portion size and value for money.,True
+Chicken and Grills,6184,Beef Jerky,900,snacks,Dried and seasoned strips of beef or other meats.,image,4,Good portion size and value for money.,True
+Chicken and Grills,3811,Rice Cakes,650,snacks,Light and airy cakes made from rice grains.,image,4,Good portion size and value for money.,False
+Chicken and Grills,8788,Peanut Butter Cups,1000,snacks,Creamy peanut butter cups with a chocolate coating.,image,4,Good portion size and value for money.,False
+Chicken and Grills,3066,Chocolate Cake,850,desserts,Rich and moist chocolate cake layered with chocolate ganache or frosting.,image,4,Good portion size and value for money.,False
+Chicken and Grills,4849,Apple Pie,1500,desserts,A classic pie made with sweet apples and a flaky crust.,image,4,Good portion size and value for money.,False
+Chicken and Grills,7524,Cheesecake,900,desserts,"A creamy and indulgent cake made with cream cheese, eggs, and a cookie crust.",image,4,Good portion size and value for money.,False
+Chicken and Grills,2654,Ice Cream Sundae,950,desserts,"A delightful treat with scoops of ice cream, toppings, and sauces.",image,4,Good portion size and value for money.,False
+Mcdonalds,1572,Brownies,500,desserts,"Decadent and fudgy chocolate squares, often with nuts or chocolate chips.",image,4,Good portion size and value for money.,False
+Chicken and Grills,2515,Cupcakes,250,desserts,Individual cakes with various flavors and frosting designs.,image,4,Good portion size and value for money.,True
+Chicken and Grills,7539,Strawberry Shortcake,1700,desserts,"A classic dessert made with fresh strawberries, sponge cake, and whipped cream.",image,4,Good portion size and value for money.,True
+Naija Delight,2970,Creme Brulee,350,desserts,A creamy custard topped with caramelized sugar for a crunchy and sweet layer.,image,4,Good portion size and value for money.,True
+Mcdonalds,4829,Chocolate Chip Cookies,1050,desserts,Delicious cookies with chocolate chips throughout.,image,4,Good portion size and value for money.,False
+Chicken and Grills,5596,Red Velvet Cake,1200,desserts,A velvety and vibrant red cake with cream cheese frosting.,image,4,Good portion size and value for money.,False
+Naija Delight,8445,Coffee,750,Drinks,A classic hot beverage made from roasted coffee beans.,image,4,Good portion size and value for money.,False
+Mcdonalds,4396,Orange Juice,900,Drinks,A refreshing citrus drink extracted from oranges.,image,4,Good portion size and value for money.,False
+Mcdonalds,2801,Lemonade,650,Drinks,A tangy and sweet lemon-flavored drink.,image,4,Good portion size and value for money.,False
+Naija Delight,9116,Iced Tea,500,Drinks,"Chilled tea served with ice, often with added sweeteners and flavors.",image,4,Good portion size and value for money.,False
+Naija Delight,7971,Mango Smoothie,650,Drinks,A fruity blended drink made with ripe mangoes and ice.,image,4,Good portion size and value for money.,False
+Naija Delight,6717,Hot Chocolate,950,Drinks,A comforting and creamy hot beverage made with cocoa and milk.,image,4,Good portion size and value for money.,True
+Naija Delight,7085,Apple Cider,1250,Drinks,A spiced and warm drink made from apple juice or cider.,image,4,Good portion size and value for money.,True
+Mcdonalds,4042,Ginger Ale,500,Drinks,A carbonated soft drink flavored with ginger.,image,4,Good portion size and value for money.,True
+Naija Delight,1844,Chai Latte,350,Drinks,"A spiced tea latte made with black tea, milk, and aromatic spices.",image,4,Good portion size and value for money.,True
+Chicken and Grills,9572,Watermelon Slush,350,Drinks,A slushy and cooling drink made from fresh watermelon and ice.,image,4,Good portion size and value for money.,False
+Naija Delight,3810,Fried Rice,800,Chinese Cuisine,"Stir-fried rice with vegetables, eggs, and sometimes meat or seafood.",image,4,Good portion size and value for money.,True
+Chicken and Grills,9505,Sweet and Sour Chicken,1000,Chinese Cuisine,Crispy chicken in a tangy and sweet sauce with bell peppers and pineapple.,image,4,Good portion size and value for money.,False
+Mcdonalds,7904,Beef in Oyster Sauce,1200,Chinese Cuisine,Tender beef stir-fried with vegetables in a savory oyster sauce.,image,4,Good portion size and value for money.,False
+Mcdonalds,4695,Spring Rolls,500,Chinese Cuisine,Crispy fried rolls filled with vegetables and sometimes meat or seafood.,image,4,Good portion size and value for money.,False
+Chicken and Grills,3463,Chow Mein,900,Chinese Cuisine,Stir-fried noodles with vegetables and meat or seafood.,image,4,Good portion size and value for money.,False
+Mcdonalds,3901,Szechuan Chicken,1100,Chinese Cuisine,Spicy and flavorful chicken stir-fried with Szechuan peppercorns and chili peppers.,image,4,Good portion size and value for money.,False
+Mcdonalds,3290,Peking Duck,2000,Chinese Cuisine,"Roasted duck with crispy skin, served with pancakes, scallions, and hoisin sauce.",image,4,Good portion size and value for money.,True
+Chicken and Grills,2124,Egg Fried Rice,800,Chinese Cuisine,"Fried rice cooked with scrambled eggs, vegetables, and sometimes meat or seafood.",image,4,Good portion size and value for money.,True
+Naija Delight,2433,Kung Pao Chicken,1000,Chinese Cuisine,"Chicken stir-fried with peanuts, vegetables, and a spicy, savory sauce.",image,4,Good portion size and value for money.,False
+Mcdonalds,1555,Hot and Sour Soup,700,Chinese Cuisine,"A spicy and tangy soup with mushrooms, tofu, vegetables, and sometimes meat.",image,4,Good portion size and value for money.,True
+Mcdonalds,1406,Suya,300,Street Food,Skewered and grilled spicy meat (usually beef or chicken).,image,4,Good portion size and value for money.,False
+Chicken and Grills,9436,Akara,200,Street Food,"Deep-fried bean cakes made from ground black-eyed peas, onions, and spices.",image,4,Good portion size and value for money.,False
+Naija Delight,3890,Moi Moi,250,Street Food,"Steamed bean pudding made from black-eyed peas, peppers, onions, and spices.",image,4,Good portion size and value for money.,False
+Chicken and Grills,4654,Roasted Plantain,150,Street Food,Ripe plantains roasted until caramelized and tender.,image,4,Good portion size and value for money.,False
+Naija Delight,9896,Boli (Roasted Yam),200,Street Food,Yam roasted until soft and served with spicy pepper sauce.,image,4,Good portion size and value for money.,False
+Naija Delight,7631,Gala,100,Street Food,"A popular Nigerian sausage roll, often enjoyed as a quick snack.",image,4,Good portion size and value for money.,False
+Naija Delight,7796,Puff Puff,100,Street Food,"Deep-fried dough balls, slightly sweet and fluffy.",image,4,Good portion size and value for money.,False
+Chicken and Grills,9732,Fried Plantain,150,Street Food,Ripe plantains sliced and deep-fried until golden and caramelized.,image,4,Good portion size and value for money.,False
+Chicken and Grills,2905,Boiled Corn,100,Street Food,"Fresh corn on the cob boiled until tender, often seasoned with salt or butter.",image,4,Good portion size and value for money.,True
+Naija Delight,3338,Fried Yam,200,Street Food,Sliced yam deep-fried until crispy on the outside and soft on the inside.,image,4,Good portion size and value for money.,True
